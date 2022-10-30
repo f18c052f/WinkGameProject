@@ -8,7 +8,7 @@ It is Co-developed with [TakanariSimbo][].
 Regarding of an overview of the system structure for the game, please refer to the robustness diagram below.  
 ![Convert image](ReadMeImg/SystemStructure.png "system")
 
-## Reauirement and Usage  
+## Requirement and Usage  
 
 **Wink detection function (Python)**  
 Please jump to [wink_detection] page and set up the environment.
