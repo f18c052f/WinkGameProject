@@ -1,12 +1,12 @@
 # WinkGameProject
-![Convert image](ReadMeImg/App_ima.png "App_image")
+![WinkGake](ReadMeImg/WinkGame.gif)
 
 ## Overview  
 This project is to create a game of using user wink detection information.  
 It is Co-developed with [TakanariSimbo][].  
 
 Regarding of an overview of the system structure for the game, please refer to the robustness diagram below.  
-![Convert image](ReadMeImg/system.png "system")
+![Convert image](ReadMeImg/SystemStructure.png "system")
 
 ## Reauirement and Usage  
 
